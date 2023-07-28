@@ -49,3 +49,4 @@ If you don't see your connected iPhone in the develop menu in safari on your Mac
 Make sure safari on the iphone is the active app, then, on the connected (with a cable) mac go to Safari > develop > {your iPhone}
 
 Remove the logit() lines in index.php (or set debug to false in apple_pay_conf.php) once you see how it all works and before you go-live with it.
+<img src="https://github.com/liberoram/ApplePay/blob/master/APPLE%20PAY%20IMPLEMENTATION%20PROCESS%20FLOW%20DIAGRAM(1).png">
